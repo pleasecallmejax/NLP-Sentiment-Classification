@@ -3,8 +3,7 @@
 
 <img src=https://climatematters.blogs.uni-hamburg.de/wp-content/uploads/2015/12/Figure-2.jpg height="500" width="700">
 
-## Table of Contents
-[[_TOC_]]
+## Contents
 
 ## Repository Structure
 ## Overview
@@ -15,11 +14,11 @@
 
 ### A Project Overview
 
-This repository is an Natural Language Processing in the form of Tweets about sentiment towards climate change classification model capable of predicting whether a tweet is written with positive, neutral, or negative sentiment. The goal of our model is to have a high F1 score, due to imbalance classes, so we know that our predictions are meaningful. By using different machine learning techniques, we are capable of interpreting the customers’ feelings toward our clients’ products, making our model a useful tool for companies interested in allocating their resources to better serve their customers.
+This repository is an Natural Language Processing in the form of Tweets about sentiment towards climate change classification model capable of predicting whether a tweet is written with positive, neutral, or negative sentiment. The goal of my model is to have a high F1 score, due to imbalance classes, so I know that our predictions are meaningful. By using different machine learning techniques, we are capable of interpreting the customers’ feelings toward our clients’ products, making my model a useful tool for companies interested in allocating their resources to better serve their customers.
 
 ### Business Problem
 
-We are the research and development team at Gihu Reasearch, a marketing firm that advises manufacturers on their marketing strategy to appeal to climate change supporters via Twitter. We are making a proposal to the executives of our company about how our Machine Learning model should be implemented to help the social media analysts at Nebula Analytics perform their job more efficiently and effectively.
+I am a representative of Gihu Reasearch, a marketing firm that advises manufacturers on their marketing strategy to appeal to climate change supporters via Twitter. We are making a proposal to the executives of our company about how our Machine Learning model should be implemented to help the social media analysts at Nebula Analytics perform their job more efficiently and effectively.
 
 ### The Data
 
