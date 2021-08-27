@@ -1,7 +1,7 @@
 # NLP Twitter Sentiment Classification
 *a Flatiron Project by Jax*
 
-<img src=https://climatematters.blogs.uni-hamburg.de/wp-content/uploads/2015/12/Fig-2_Plot_Wordcloud_uniqueUsers.jpeg height="500" width="1000">
+<img src=https://climatematters.blogs.uni-hamburg.de/wp-content/uploads/2015/12/Figure-2.jpg height="500" width="700">
 
 ## Table of Contents
 
