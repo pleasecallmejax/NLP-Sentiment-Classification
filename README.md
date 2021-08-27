@@ -1,7 +1,7 @@
 # NLP Twitter Sentiment Classification
 *a Flatiron Project by Jax*
 
-![Alt Text]('/data/Global-climate-strike-top-hashtags.png')
+<img src=https://climatematters.blogs.uni-hamburg.de/wp-content/uploads/2015/12/Fig-2_Plot_Wordcloud_uniqueUsers.jpeg height="500" width="1000">
 
 ## Table of Contents
 
