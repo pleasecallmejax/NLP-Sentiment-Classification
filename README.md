@@ -4,12 +4,13 @@
 <img src=https://climatematters.blogs.uni-hamburg.de/wp-content/uploads/2015/12/Figure-2.jpg height="500" width="700">
 
 ## Table of Contents
+[[_TOC_]]
 
-### Repository Structure
-### Overview
-### Business Problem
-### Data Info/Cleaning
-### Analysis & Recommendations
+## Repository Structure
+## Overview
+## Business Problem
+## Data Info/Cleaning
+## Analysis & Recommendations
 
 
 ### A Project Overview
